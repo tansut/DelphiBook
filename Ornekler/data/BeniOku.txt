@@ -1,0 +1,12 @@
+*********************************************
+     DELPHÝ PROGRAMCILIÐI VE SQL
+*********************************************
+
+www.delphikitabi.com
+www.delphiturk.com
+
+Bu klasör içerisindeki veriler Delphi Programcýlýðý 
+ve SQL kitabý için yazýlmýþ veri tabaný örnek
+uygulamalarýnda kullanýlmaktadýr. Verilerde bulunan
+kiþi isimlerinin gerçek kiþilerle hiç bir ilgisi
+bulunmamaktadýr.

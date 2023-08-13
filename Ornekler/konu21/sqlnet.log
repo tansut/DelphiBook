@@ -1,0 +1,20 @@
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=tansu)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=tansu.world)(CID=(PROGRAM=D:\Belgelerim\Delphi Kitabi\Ornekler\konu16\DbExtrt.exe)(HOST=TANSU)(USER=Tansu))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 8.1.6.0.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 8.1.6.0.0 - Production
+  Time: 27-OCA-2001 19:58:37
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12541
+    TNS-12541: TNS:Dinleyici yok
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: Dinleyici yok
+    nt secondary err code: 61
+    nt OS err code: 0

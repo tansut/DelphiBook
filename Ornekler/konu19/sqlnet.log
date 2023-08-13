@@ -1,0 +1,560 @@
+
+
+***********************************************************************
+Fatal NI connect error 12560, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=BEQ)(PROGRAM=oracle)(ARGV0=oracletansu)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))'))(CONNECT_DATA=(SID=tansu)(CID=(PROGRAM=D:\Belgelerim\Delphi Kitabi\Ornekler\db\dbprj.exe)(HOST=TANSU)(USER=Tansu))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 8.1.6.0.0 - Production
+	Oracle Bequeath NT Protocol Adapter for 32-bit Windows: Version 8.1.6.0.0 - Production
+  Time: 14-ÞUB-2001 20:18:31
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12560
+    TNS-12560: TNS:Protokol uyarlama hatasý
+    ns secondary err code: 0
+    nt main err code: 530
+    TNS-00530: Protokol uyarlayýcý hatasý
+    nt secondary err code: 2
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12560, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=BEQ)(PROGRAM=oracle)(ARGV0=oracletansu)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))'))(CONNECT_DATA=(SID=tansu)(CID=(PROGRAM=D:\Belgelerim\Delphi Kitabi\Ornekler\db\dbprj.exe)(HOST=TANSU)(USER=Tansu))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 8.1.6.0.0 - Production
+	Oracle Bequeath NT Protocol Adapter for 32-bit Windows: Version 8.1.6.0.0 - Production
+  Time: 14-ÞUB-2001 20:18:52
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12560
+    TNS-12560: TNS:Protokol uyarlama hatasý
+    ns secondary err code: 0
+    nt main err code: 530
+    TNS-00530: Protokol uyarlayýcý hatasý
+    nt secondary err code: 2
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12560, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=BEQ)(PROGRAM=oracle)(ARGV0=oracletansu)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))'))(CONNECT_DATA=(SID=tansu)(CID=(PROGRAM=D:\Belgelerim\Delphi Kitabi\Ornekler\db\dbprj.exe)(HOST=TANSU)(USER=Tansu))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 8.1.6.0.0 - Production
+	Oracle Bequeath NT Protocol Adapter for 32-bit Windows: Version 8.1.6.0.0 - Production
+  Time: 14-ÞUB-2001 20:19:04
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12560
+    TNS-12560: TNS:Protokol uyarlama hatasý
+    ns secondary err code: 0
+    nt main err code: 530
+    TNS-00530: Protokol uyarlayýcý hatasý
+    nt secondary err code: 2
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12560, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=BEQ)(PROGRAM=oracle)(ARGV0=oracletansu)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))'))(CONNECT_DATA=(SID=tansu)(CID=(PROGRAM=D:\Belgelerim\Delphi Kitabi\Ornekler\db\dbprj.exe)(HOST=TANSU)(USER=Tansu))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 8.1.6.0.0 - Production
+	Oracle Bequeath NT Protocol Adapter for 32-bit Windows: Version 8.1.6.0.0 - Production
+  Time: 14-ÞUB-2001 20:19:41
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12560
+    TNS-12560: TNS:Protokol uyarlama hatasý
+    ns secondary err code: 0
+    nt main err code: 530
+    TNS-00530: Protokol uyarlayýcý hatasý
+    nt secondary err code: 2
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12560, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=BEQ)(PROGRAM=oracle)(ARGV0=oracletansu)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))'))(CONNECT_DATA=(SID=tansu)(CID=(PROGRAM=D:\Belgelerim\Delphi Kitabi\Ornekler\db\dbprj.exe)(HOST=TANSU)(USER=Tansu))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 8.1.6.0.0 - Production
+	Oracle Bequeath NT Protocol Adapter for 32-bit Windows: Version 8.1.6.0.0 - Production
+  Time: 14-ÞUB-2001 20:22:31
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12560
+    TNS-12560: TNS:Protokol uyarlama hatasý
+    ns secondary err code: 0
+    nt main err code: 530
+    TNS-00530: Protokol uyarlayýcý hatasý
+    nt secondary err code: 2
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12560, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=BEQ)(PROGRAM=oracle)(ARGV0=oracletansu)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))'))(CONNECT_DATA=(SID=tansu)(CID=(PROGRAM=D:\Belgelerim\Delphi Kitabi\Ornekler\db\dbprj.exe)(HOST=TANSU)(USER=Tansu))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 8.1.6.0.0 - Production
+	Oracle Bequeath NT Protocol Adapter for 32-bit Windows: Version 8.1.6.0.0 - Production
+  Time: 14-ÞUB-2001 20:39:39
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12560
+    TNS-12560: TNS:Protokol uyarlama hatasý
+    ns secondary err code: 0
+    nt main err code: 530
+    TNS-00530: Protokol uyarlayýcý hatasý
+    nt secondary err code: 2
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12560, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=BEQ)(PROGRAM=oracle)(ARGV0=oracletansu)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))'))(CONNECT_DATA=(SID=tansu)(CID=(PROGRAM=D:\Belgelerim\Delphi Kitabi\Ornekler\db\dbprj.exe)(HOST=TANSU)(USER=Tansu))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 8.1.6.0.0 - Production
+	Oracle Bequeath NT Protocol Adapter for 32-bit Windows: Version 8.1.6.0.0 - Production
+  Time: 14-ÞUB-2001 20:40:12
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12560
+    TNS-12560: TNS:Protokol uyarlama hatasý
+    ns secondary err code: 0
+    nt main err code: 530
+    TNS-00530: Protokol uyarlayýcý hatasý
+    nt secondary err code: 2
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12560, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=BEQ)(PROGRAM=oracle)(ARGV0=oracletansu)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))'))(CONNECT_DATA=(SID=tansu)(CID=(PROGRAM=D:\Belgelerim\Delphi Kitabi\Ornekler\db\dbprj.exe)(HOST=TANSU)(USER=Tansu))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 8.1.6.0.0 - Production
+	Oracle Bequeath NT Protocol Adapter for 32-bit Windows: Version 8.1.6.0.0 - Production
+  Time: 14-ÞUB-2001 20:41:08
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12560
+    TNS-12560: TNS:Protokol uyarlama hatasý
+    ns secondary err code: 0
+    nt main err code: 530
+    TNS-00530: Protokol uyarlayýcý hatasý
+    nt secondary err code: 2
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12560, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=BEQ)(PROGRAM=oracle)(ARGV0=oracletansu)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))'))(CONNECT_DATA=(SID=tansu)(CID=(PROGRAM=D:\Belgelerim\Delphi Kitabi\Ornekler\db\dbprj.exe)(HOST=TANSU)(USER=Tansu))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 8.1.6.0.0 - Production
+	Oracle Bequeath NT Protocol Adapter for 32-bit Windows: Version 8.1.6.0.0 - Production
+  Time: 14-ÞUB-2001 20:41:26
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12560
+    TNS-12560: TNS:Protokol uyarlama hatasý
+    ns secondary err code: 0
+    nt main err code: 530
+    TNS-00530: Protokol uyarlayýcý hatasý
+    nt secondary err code: 2
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12560, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=BEQ)(PROGRAM=oracle)(ARGV0=oracletansu)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))'))(CONNECT_DATA=(SID=tansu)(CID=(PROGRAM=D:\Belgelerim\Delphi Kitabi\Ornekler\db\dbprj.exe)(HOST=TANSU)(USER=Tansu))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 8.1.6.0.0 - Production
+	Oracle Bequeath NT Protocol Adapter for 32-bit Windows: Version 8.1.6.0.0 - Production
+  Time: 14-ÞUB-2001 20:42:49
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12560
+    TNS-12560: TNS:Protokol uyarlama hatasý
+    ns secondary err code: 0
+    nt main err code: 530
+    TNS-00530: Protokol uyarlayýcý hatasý
+    nt secondary err code: 2
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12560, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=BEQ)(PROGRAM=oracle)(ARGV0=oracletansu)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))'))(CONNECT_DATA=(SID=tansu)(CID=(PROGRAM=D:\Belgelerim\Delphi Kitabi\Ornekler\db\dbprj.exe)(HOST=TANSU)(USER=Tansu))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 8.1.6.0.0 - Production
+	Oracle Bequeath NT Protocol Adapter for 32-bit Windows: Version 8.1.6.0.0 - Production
+  Time: 14-ÞUB-2001 20:44:10
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12560
+    TNS-12560: TNS:Protokol uyarlama hatasý
+    ns secondary err code: 0
+    nt main err code: 530
+    TNS-00530: Protokol uyarlayýcý hatasý
+    nt secondary err code: 2
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12560, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=BEQ)(PROGRAM=oracle)(ARGV0=oracletansu)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))'))(CONNECT_DATA=(SID=tansu)(CID=(PROGRAM=D:\Belgelerim\Delphi Kitabi\Ornekler\db\dbprj.exe)(HOST=TANSU)(USER=Tansu))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 8.1.6.0.0 - Production
+	Oracle Bequeath NT Protocol Adapter for 32-bit Windows: Version 8.1.6.0.0 - Production
+  Time: 14-ÞUB-2001 20:46:52
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12560
+    TNS-12560: TNS:Protokol uyarlama hatasý
+    ns secondary err code: 0
+    nt main err code: 530
+    TNS-00530: Protokol uyarlayýcý hatasý
+    nt secondary err code: 2
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12560, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=BEQ)(PROGRAM=oracle)(ARGV0=oracletansu)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))'))(CONNECT_DATA=(SID=tansu)(CID=(PROGRAM=D:\Belgelerim\Delphi Kitabi\Ornekler\db\dbprj.exe)(HOST=TANSU)(USER=Tansu))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 8.1.6.0.0 - Production
+	Oracle Bequeath NT Protocol Adapter for 32-bit Windows: Version 8.1.6.0.0 - Production
+  Time: 14-ÞUB-2001 20:47:08
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12560
+    TNS-12560: TNS:Protokol uyarlama hatasý
+    ns secondary err code: 0
+    nt main err code: 530
+    TNS-00530: Protokol uyarlayýcý hatasý
+    nt secondary err code: 2
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12560, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=BEQ)(PROGRAM=oracle)(ARGV0=oracletansu)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))'))(CONNECT_DATA=(SID=tansu)(CID=(PROGRAM=D:\Belgelerim\Delphi Kitabi\Ornekler\db\dbprj.exe)(HOST=TANSU)(USER=Tansu))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 8.1.6.0.0 - Production
+	Oracle Bequeath NT Protocol Adapter for 32-bit Windows: Version 8.1.6.0.0 - Production
+  Time: 14-ÞUB-2001 20:47:58
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12560
+    TNS-12560: TNS:Protokol uyarlama hatasý
+    ns secondary err code: 0
+    nt main err code: 530
+    TNS-00530: Protokol uyarlayýcý hatasý
+    nt secondary err code: 2
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12560, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=BEQ)(PROGRAM=oracle)(ARGV0=oracletansu)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))'))(CONNECT_DATA=(SID=tansu)(CID=(PROGRAM=D:\Belgelerim\Delphi Kitabi\Ornekler\db\dbprj.exe)(HOST=TANSU)(USER=Tansu))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 8.1.6.0.0 - Production
+	Oracle Bequeath NT Protocol Adapter for 32-bit Windows: Version 8.1.6.0.0 - Production
+  Time: 14-ÞUB-2001 20:48:37
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12560
+    TNS-12560: TNS:Protokol uyarlama hatasý
+    ns secondary err code: 0
+    nt main err code: 530
+    TNS-00530: Protokol uyarlayýcý hatasý
+    nt secondary err code: 2
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12560, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=BEQ)(PROGRAM=oracle)(ARGV0=oracletansu)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))'))(CONNECT_DATA=(SID=tansu)(CID=(PROGRAM=D:\Belgelerim\Delphi Kitabi\Ornekler\db\dbprj.exe)(HOST=TANSU)(USER=Tansu))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 8.1.6.0.0 - Production
+	Oracle Bequeath NT Protocol Adapter for 32-bit Windows: Version 8.1.6.0.0 - Production
+  Time: 14-ÞUB-2001 20:49:15
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12560
+    TNS-12560: TNS:Protokol uyarlama hatasý
+    ns secondary err code: 0
+    nt main err code: 530
+    TNS-00530: Protokol uyarlayýcý hatasý
+    nt secondary err code: 2
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12560, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=BEQ)(PROGRAM=oracle)(ARGV0=oracletansu)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))'))(CONNECT_DATA=(SID=tansu)(CID=(PROGRAM=D:\Belgelerim\Delphi Kitabi\Ornekler\db\dbprj.exe)(HOST=TANSU)(USER=Tansu))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 8.1.6.0.0 - Production
+	Oracle Bequeath NT Protocol Adapter for 32-bit Windows: Version 8.1.6.0.0 - Production
+  Time: 14-ÞUB-2001 20:51:10
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12560
+    TNS-12560: TNS:Protokol uyarlama hatasý
+    ns secondary err code: 0
+    nt main err code: 530
+    TNS-00530: Protokol uyarlayýcý hatasý
+    nt secondary err code: 2
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12560, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=BEQ)(PROGRAM=oracle)(ARGV0=oracletansu)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))'))(CONNECT_DATA=(SID=tansu)(CID=(PROGRAM=D:\Belgelerim\Delphi Kitabi\Ornekler\db\dbprj.exe)(HOST=TANSU)(USER=Tansu))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 8.1.6.0.0 - Production
+	Oracle Bequeath NT Protocol Adapter for 32-bit Windows: Version 8.1.6.0.0 - Production
+  Time: 14-ÞUB-2001 20:54:04
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12560
+    TNS-12560: TNS:Protokol uyarlama hatasý
+    ns secondary err code: 0
+    nt main err code: 530
+    TNS-00530: Protokol uyarlayýcý hatasý
+    nt secondary err code: 2
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12560, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=BEQ)(PROGRAM=oracle)(ARGV0=oracletansu)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))'))(CONNECT_DATA=(SID=tansu)(CID=(PROGRAM=D:\Belgelerim\Delphi Kitabi\Ornekler\db\dbprj.exe)(HOST=TANSU)(USER=Tansu))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 8.1.6.0.0 - Production
+	Oracle Bequeath NT Protocol Adapter for 32-bit Windows: Version 8.1.6.0.0 - Production
+  Time: 14-ÞUB-2001 20:54:33
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12560
+    TNS-12560: TNS:Protokol uyarlama hatasý
+    ns secondary err code: 0
+    nt main err code: 530
+    TNS-00530: Protokol uyarlayýcý hatasý
+    nt secondary err code: 2
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12560, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=BEQ)(PROGRAM=oracle)(ARGV0=oracletansu)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))'))(CONNECT_DATA=(SID=tansu)(CID=(PROGRAM=D:\Belgelerim\Delphi Kitabi\Ornekler\db\dbprj.exe)(HOST=TANSU)(USER=Tansu))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 8.1.6.0.0 - Production
+	Oracle Bequeath NT Protocol Adapter for 32-bit Windows: Version 8.1.6.0.0 - Production
+  Time: 14-ÞUB-2001 20:57:24
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12560
+    TNS-12560: TNS:Protokol uyarlama hatasý
+    ns secondary err code: 0
+    nt main err code: 530
+    TNS-00530: Protokol uyarlayýcý hatasý
+    nt secondary err code: 2
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12560, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=BEQ)(PROGRAM=oracle)(ARGV0=oracletansu)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))'))(CONNECT_DATA=(SID=tansu)(CID=(PROGRAM=D:\Belgelerim\Delphi Kitabi\Ornekler\db\dbprj.exe)(HOST=TANSU)(USER=Tansu))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 8.1.6.0.0 - Production
+	Oracle Bequeath NT Protocol Adapter for 32-bit Windows: Version 8.1.6.0.0 - Production
+  Time: 14-ÞUB-2001 20:58:37
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12560
+    TNS-12560: TNS:Protokol uyarlama hatasý
+    ns secondary err code: 0
+    nt main err code: 530
+    TNS-00530: Protokol uyarlayýcý hatasý
+    nt secondary err code: 2
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12560, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=BEQ)(PROGRAM=oracle)(ARGV0=oracletansu)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))'))(CONNECT_DATA=(SID=tansu)(CID=(PROGRAM=D:\Belgelerim\Delphi Kitabi\Ornekler\db\dbprj.exe)(HOST=TANSU)(USER=Tansu))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 8.1.6.0.0 - Production
+	Oracle Bequeath NT Protocol Adapter for 32-bit Windows: Version 8.1.6.0.0 - Production
+  Time: 14-ÞUB-2001 20:59:33
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12560
+    TNS-12560: TNS:Protokol uyarlama hatasý
+    ns secondary err code: 0
+    nt main err code: 530
+    TNS-00530: Protokol uyarlayýcý hatasý
+    nt secondary err code: 2
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12560, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=BEQ)(PROGRAM=oracle)(ARGV0=oracletansu)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))'))(CONNECT_DATA=(SID=tansu)(CID=(PROGRAM=D:\Belgelerim\Delphi Kitabi\Ornekler\db\dbprj.exe)(HOST=TANSU)(USER=Tansu))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 8.1.6.0.0 - Production
+	Oracle Bequeath NT Protocol Adapter for 32-bit Windows: Version 8.1.6.0.0 - Production
+  Time: 17-ÞUB-2001 23:43:14
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12560
+    TNS-12560: TNS:Protokol uyarlama hatasý
+    ns secondary err code: 0
+    nt main err code: 530
+    TNS-00530: Protokol uyarlayýcý hatasý
+    nt secondary err code: 2
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=tansu)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=tansu.world)(CID=(PROGRAM=D:\Belgelerim\Delphi Kitabi\Ornekler\db\dbprj.exe)(HOST=TANSU)(USER=Tansu))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 8.1.6.0.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 8.1.6.0.0 - Production
+  Time: 20-MAR-2001 21:05:02
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12541
+    TNS-12541: TNS:Dinleyici yok
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: Dinleyici yok
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12560, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=BEQ)(PROGRAM=oracle)(ARGV0=oracletansu)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))'))(CONNECT_DATA=(SID=tansu)(CID=(PROGRAM=D:\Belgelerim\Delphi Kitabi\Ornekler\konu16\dbprj.exe)(HOST=TANSU)(USER=Tansu))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 8.1.6.0.0 - Production
+	Oracle Bequeath NT Protocol Adapter for 32-bit Windows: Version 8.1.6.0.0 - Production
+  Time: 27-MAR-2001 21:27:55
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12560
+    TNS-12560: TNS:Protokol uyarlama hatasý
+    ns secondary err code: 0
+    nt main err code: 530
+    TNS-00530: Protokol uyarlayýcý hatasý
+    nt secondary err code: 2
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12560, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=BEQ)(PROGRAM=oracle)(ARGV0=oracletansu)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))'))(CONNECT_DATA=(SID=tansu)(CID=(PROGRAM=D:\Belgelerim\Delphi Kitabi\Ornekler\konu16\dbprj.exe)(HOST=TANSU)(USER=Tansu))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 8.1.6.0.0 - Production
+	Oracle Bequeath NT Protocol Adapter for 32-bit Windows: Version 8.1.6.0.0 - Production
+  Time: 27-MAR-2001 21:29:09
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12560
+    TNS-12560: TNS:Protokol uyarlama hatasý
+    ns secondary err code: 0
+    nt main err code: 530
+    TNS-00530: Protokol uyarlayýcý hatasý
+    nt secondary err code: 2
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12560, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=BEQ)(PROGRAM=oracle)(ARGV0=oracletansu)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))'))(CONNECT_DATA=(SID=tansu)(CID=(PROGRAM=D:\Belgelerim\Delphi Kitabi\Ornekler\konu16\dbprj.exe)(HOST=TANSU)(USER=Tansu))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 8.1.6.0.0 - Production
+	Oracle Bequeath NT Protocol Adapter for 32-bit Windows: Version 8.1.6.0.0 - Production
+  Time: 27-MAR-2001 21:29:46
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12560
+    TNS-12560: TNS:Protokol uyarlama hatasý
+    ns secondary err code: 0
+    nt main err code: 530
+    TNS-00530: Protokol uyarlayýcý hatasý
+    nt secondary err code: 2
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12560, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=BEQ)(PROGRAM=oracle)(ARGV0=oracletansu)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))'))(CONNECT_DATA=(SID=tansu)(CID=(PROGRAM=D:\Belgelerim\Delphi Kitabi\Ornekler\konu16\dbprj.exe)(HOST=TANSU)(USER=Tansu))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 8.1.6.0.0 - Production
+	Oracle Bequeath NT Protocol Adapter for 32-bit Windows: Version 8.1.6.0.0 - Production
+  Time: 28-MAR-2001 01:03:10
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12560
+    TNS-12560: TNS:Protokol uyarlama hatasý
+    ns secondary err code: 0
+    nt main err code: 530
+    TNS-00530: Protokol uyarlayýcý hatasý
+    nt secondary err code: 2
+    nt OS err code: 0

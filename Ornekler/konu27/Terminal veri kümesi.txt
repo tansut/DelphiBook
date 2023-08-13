@@ -1,0 +1,9 @@
+**************************************************
+        DELPHI PROGRAMCILIÐI ve SQL
+**************************************************
+
+www.delphikitabi.com
+www.delphiturk.com
+
+Terminal veri kümesi (TClientDataSet) kullanýmý için
+KodBank uygulamasý kaynak kodu ve video'yu inceleyiniz.

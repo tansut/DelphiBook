@@ -1,0 +1,13 @@
+**************************************************
+        DELPHI PROGRAMCILIÐI ve SQL
+**************************************************
+
+www.delphikitabi.com
+www.delphiturk.com
+
+Arþivde bulunan örnek uygulamalar 
+Delphi Programcýlýðý ve SQL kitabý için yazýlmýþtýr.
+Kitap hakkýnda bilgi almak için http:\\www.delphikitabi.com ve
+http://www.delphiturk.com internet sitelerini ziyaret edebilirsiniz.
+
+Delphi çalýþmalarýnýzda baþarýlar.

@@ -1,0 +1,12 @@
+**************************************************
+        DELPHI PROGRAMCILIÐI ve SQL
+**************************************************
+
+www.delphikitabi.com
+www.delphiturk.com
+
+Basit Telnet Sunucusu sadece Windows NT tabanlý iþletim sistemlerinde çalýþabilir. Uygulamayý yüklemek için komut satýrýnda
+
+threadm.exe /INSTALL yazýp ENTER tuþuna basýnýz. Windows Hizmetleri Penceresini açýp (Kontrol Panel - Hizmetler, Control Panel - Services) hizmeti baþlattýktan sonra konut satýrýnda
+
+telnet localhost 1899 komutunu veriniz.
